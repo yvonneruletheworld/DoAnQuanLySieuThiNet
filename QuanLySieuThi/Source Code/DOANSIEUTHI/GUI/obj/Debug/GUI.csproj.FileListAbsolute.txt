@@ -1,0 +1,610 @@
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\GUI.exe.config
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\GUI.exe
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\GUI.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Guna.UI.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmLogIn.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.exe
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_Dashbroad.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.CL_NumbericTextBox.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DAL_BLL.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DAL_BLL.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DAL_BLL.dll.config
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Data.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Data.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Images.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.exe.licenses
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_EditPanel.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\zxing.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\zxing.presentation.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\zxing.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\zxing.presentation.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmCashier_Main.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.create.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\NReco.Recommender.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\NReco.Recommender.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.giaodich.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\AForge.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\AForge.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.DirectShow.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmScan.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\PayPal.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\PayPal.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmTaskMain.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Buffers.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Collections.Immutable.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Memory.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Reflection.Metadata.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Buffers.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Collections.Immutable.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Memory.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Reflection.Metadata.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Message.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_TongQuan.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\HtmlAgilityPack.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\HtmlAgilityPack.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\HtmlAgilityPack.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_PaymentFlyout.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmConcatBill.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.rp_receipt.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.XtraForm1.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Admin.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Spreadsheet.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraSpreadsheet.v19.1.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Spreadsheet.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraSpreadsheet.v19.1.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_PhanQuyen.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_NhomNguoiDung.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_NhaCungCap.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_NhanVien.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frm.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmThietLapGia.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_Count_Item.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_Count.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_PhieuChi.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_KhoHang.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\FireSharp.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\RestSharp.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\RestSharp.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_KhachHang.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmWaiting.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.frmConfig.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Account.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Config.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.dll.config
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.Statistics.dll
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\bin\Debug\Accord.Statistics.xml
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Chart.resources
+D:\BUZZ\.NET\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_KhuyenMai.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.dll.config
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\GUI.exe.config
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\GUI.exe
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\GUI.pdb
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.MachineLearning.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.Statistics.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\AForge.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DAL_BLL.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Data.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Images.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Spreadsheet.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraSpreadsheet.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\FireSharp.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\NReco.Recommender.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\PayPal.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\RestSharp.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Buffers.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Collections.Immutable.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Memory.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Reflection.Metadata.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\zxing.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\zxing.presentation.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\HtmlAgilityPack.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DAL_BLL.pdb
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DAL_BLL.dll.config
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.MachineLearning.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.Math.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Accord.Statistics.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\AForge.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\AForge.Video.DirectShow.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Data.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Spreadsheet.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraSpreadsheet.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\NReco.Recommender.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\PayPal.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\RestSharp.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Buffers.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Collections.Immutable.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Memory.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Reflection.Metadata.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\zxing.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\zxing.presentation.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\HtmlAgilityPack.pdb
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\HtmlAgilityPack.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.CL_NumbericTextBox.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frm.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmConcatBill.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.create.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmCashier_Main.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmConfig.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmLogIn.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmScan.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmTaskMain.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmThietLapGia.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.frmWaiting.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.giaodich.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Admin.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Chart.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Config.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_KhachHang.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_KhoHang.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Account.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_KhuyenMai.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_NhaCungCap.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_NhanVien.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_NhomNguoiDung.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_PaymentFlyout.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_PhanQuyen.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_PhieuChi.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_Count_Item.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_Count.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_Dashbroad.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Message.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_Product_EditPanel.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.UC_TongQuan.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.rp_receipt.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.XtraForm1.resources
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.exe.licenses
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.exe
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\GUI\obj\Debug\GUI.pdb

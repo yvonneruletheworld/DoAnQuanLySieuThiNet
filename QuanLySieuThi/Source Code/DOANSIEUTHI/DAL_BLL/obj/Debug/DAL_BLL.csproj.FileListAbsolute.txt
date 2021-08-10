@@ -1,0 +1,74 @@
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.ResolveComReference.cache
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.CoreCompileInputs.cache
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\DAL_BLL.dll.config
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\DAL_BLL.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\DAL_BLL.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.presentation.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.presentation.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.CopyComplete
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\NReco.Recommender.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\NReco.Recommender.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\PayPal.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\PayPal.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\HtmlAgilityPack.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\HtmlAgilityPack.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\HtmlAgilityPack.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\FireSharp.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\RestSharp.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\RestSharp.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.AssemblyReference.cache
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.dll.config
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.MachineLearning.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.Core.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Statistics.dll
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.MachineLearning.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.Core.xml
+D:\BUZZ\.NET\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Statistics.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.dll.config
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\DAL_BLL.dll.config
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\DAL_BLL.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\DAL_BLL.pdb
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.MachineLearning.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.Core.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Statistics.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\FireSharp.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\HtmlAgilityPack.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\NReco.Recommender.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\PayPal.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\RestSharp.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.presentation.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.MachineLearning.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Math.Core.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Accord.Statistics.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\HtmlAgilityPack.pdb
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\HtmlAgilityPack.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\NReco.Recommender.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\PayPal.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\RestSharp.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\bin\Debug\zxing.presentation.xml
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.AssemblyReference.cache
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.ResolveComReference.cache
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.CoreCompileInputs.cache
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.csproj.CopyComplete
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.dll
+D:\BUZZ\.NET\QuanLySieuThi\Source Code\DOANSIEUTHI\DAL_BLL\obj\Debug\DAL_BLL.pdb

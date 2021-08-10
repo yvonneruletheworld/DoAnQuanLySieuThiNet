@@ -1,0 +1,13 @@
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\ThuVien.dll
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\ThuVien.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\obj\Debug\ThuVien.dll
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\obj\Debug\ThuVien.pdb
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\zxing.dll
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\zxing.presentation.dll
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\zxing.xml
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\zxing.presentation.xml
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\NReco.Recommender.dll
+D:\BUZZ\.NET\DOANSIEUTHI\ThuVien\bin\Debug\NReco.Recommender.xml
